@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/25 19:15:40.000.838,=C:\Users\PROGRAMMER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/13 10:29:56.000.542,=C:\Users\PROGRAMMER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/13 10:44:03.000.056,C:\Users\PROGRAMMER\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\PROGRAMMER\Documents\Embarcadero\Studio\Projects\AWSDelphi\uPrincipal.dfm</Transaction>
+    <Transaction>2018/06/13 10:44:03.000.056,C:\Users\PROGRAMMER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\PROGRAMMER\Documents\Embarcadero\Studio\Projects\AWSDelphi\uPrincipal.pas</Transaction>
+    <Transaction>2018/06/13 10:44:15.000.932,C:\Users\PROGRAMMER\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\PROGRAMMER\Documents\Embarcadero\Studio\Projects\AWSDelphi\AWSFiles.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
