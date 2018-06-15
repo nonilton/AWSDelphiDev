@@ -43,8 +43,8 @@ type
   end;
 
   const
-    Acceskey = 'AKIAI224K3WNEKITBO4Q';
-    Secretkey = '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';
+    Acceskey = 'SUA CHAVE AQUI';
+    Secretkey = 'SUA SENHA AQUI';
 
 var
   Form1: TForm1;
